@@ -1,0 +1,26 @@
+{
+  "profile": {
+    "name": "Your Name",
+    "role": "Junior React Developer",
+    "intro": "I build clean, responsive web apps with React.",
+    "email": "you@example.com",
+    "github": "https://github.com/your-username",
+    "linkedin": "https://www.linkedin.com/in/your-username",
+    "about": "Write your own biography, your learning journey and your goals. (Edit this in /admin)"
+  },
+  "projects": [
+    {
+      "id": "p1",
+      "title": "Project One",
+      "description": "Short summary of what it does.",
+      "details": "Longer description: the problem, your solution, what you learned.",
+      "image": "",
+      "alt": "Screenshot of Project One",
+      "tech": ["React", "Tailwind"],
+      "live": "",
+      "code": ""
+    }
+  ],
+  "skills": ["React", "JavaScript", "HTML", "Tailwind CSS", "Git & GitHub"],
+  "settings": { "formUrl": "" }
+}
